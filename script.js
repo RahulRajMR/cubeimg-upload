@@ -39,7 +39,7 @@ function newfunction(arr){
 			var scene = new THREE.Scene();
 			
 			// adding a camera
-			var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 1, 1000); camera.position.z = 1;
+			var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 2, 1000); camera.position.z = 1;
 			// camera.target = new THREE.Vector3(0, 0, 0);
 
 			// creation of a big sphere geometry

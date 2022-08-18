@@ -11,8 +11,8 @@
 }
 
 :root {
-	--blue: #0071FF;
-	--light-blue: #B6DBF6;
+	--blue: hwb(213 1% 26%);
+	--light-blue: #3e4549;
 	--dark-blue: #005DD1;
 	--grey: #f2f2f2;
 }
